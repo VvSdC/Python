@@ -10,6 +10,8 @@
 
 </div>
 
+---
+
 ## 🌟 Introduction
 
 Welcome to a comprehensive Python learning journey! Whether you're taking your first steps in programming or you're an experienced developer looking to master Python, this repository is designed to be your complete guide.
@@ -22,61 +24,9 @@ Each concept is thoroughly explained through interactive Jupyter notebooks, comb
 - 🤝 Best practices
 - 📝 Common interview questions
 
-## 🔄 Understanding Python
+---
 
-### What is Python? 🤔
-
-Python is a high-level, interpreted programming language created by Guido van Rossum and released in 1991. It emphasizes:
-
-- **Code Readability**: Clear, readable syntax with significant whitespace
-- **Simplicity**: "There should be one-- and preferably only one --obvious way to do it"
-- **Versatility**: Web development, Data Science, AI, Automation, and more
-
-### 🎯 Python's Core Philosophy
-
-```python
->>> import this
-```
-The Zen of Python emphasizes:
-- Beautiful is better than ugly
-- Simple is better than complex
-- Readability counts
-
-### How Python Works
-
-### Fundamentals
-1. [Variables and Data Types](notebooks/01_Variables_and_Data_Types.ipynb)
-2. [Control Flow (if-else, loops)](notebooks/02_Control_Flow.ipynb)
-3. [Functions and Lambda Expressions](notebooks/03_Functions_and_Lambda.ipynb)
-
-### Data Structures
-4. [Lists, Tuples, and Sets](notebooks/04_Lists_Tuples_Sets.ipynb)
-5. [Dictionaries](notebooks/05_Dictionaries.ipynb)
-6. [String Operations and Methods](notebooks/06_String_Operations.ipynb)
-
-### Object-Oriented Programming
-7. [Object-Oriented Programming](notebooks/07_OOP.ipynb)
-
-### Error Handling & File Operations
-8. [File Handling](notebooks/08_File_Handling.ipynb)
-9. [Exception Handling](notebooks/09_Exception_Handling.ipynb)
-
-### Advanced Concepts
-10. [Modules and Packages](notebooks/10_Modules_and_Packages.ipynb)
-11. [List Comprehensions and Generator Expressions](notebooks/11_List_Comprehensions_Generators.ipynb)
-12. [Decorators](notebooks/12_Decorators.ipynb)
-13. [Context Managers](notebooks/13_Context_Managers.ipynb)
-
-### Concurrent Programming
-14. [Threading and Multiprocessing](notebooks/14_Threading_Multiprocessing.ipynb)
-
-### Text Processing
-15. [Regular Expressions](notebooks/15_Regular_Expressions.ipynb)
-
-### Expert Level
-16. [Advanced Python Concepts](notebooks/16_Advanced_Python.ipynb)
-
-# How Python Works
+# 🚀 How Python Works
 
 This documentation provides a comprehensive, interview-ready overview of how Python works under the hood. It is suitable for programmers with a C++ background and covers interpretation, execution, memory management, multithreading, and package management.
 
@@ -188,4 +138,26 @@ Python is a high-level, interpreted programming language. It is known for its re
 ## Summary
 
 Python's interpreted nature, dynamic typing, efficient memory management, and robust platform support make it a powerful and flexible language. Understanding its internals—including the differences from compiled languages, the role of the GIL, and the advantages of JIT—will prepare you for both technical interviews and real-world development.
+
+---
+
+
+## 📑 Table of Contents
+
+1. [Variables and Data Types](notebooks/01_Variables_and_Data_Types.ipynb)
+2. [Control Flow (if-else, loops)](notebooks/02_Control_Flow.ipynb)
+3. [Functions and Lambda Expressions](notebooks/03_Functions_and_Lambda.ipynb)
+4. [Lists, Tuples, and Sets](notebooks/04_Lists_Tuples_Sets.ipynb)
+5. [Dictionaries](notebooks/05_Dictionaries.ipynb)
+6. [String Operations and Methods](notebooks/06_String_Operations.ipynb)
+7. [Object-Oriented Programming](notebooks/07_OOP.ipynb)
+8. [File Handling](notebooks/08_File_Handling.ipynb)
+9. [Exception Handling](notebooks/09_Exception_Handling.ipynb)
+10. [Modules and Packages](notebooks/10_Modules_and_Packages.ipynb)
+11. [List Comprehensions and Generator Expressions](notebooks/11_List_Comprehensions_Generators.ipynb)
+12. [Decorators](notebooks/12_Decorators.ipynb)
+13. [Context Managers](notebooks/13_Context_Managers.ipynb)
+14. [Threading and Multiprocessing](notebooks/14_Threading_Multiprocessing.ipynb)
+15. [Regular Expressions](notebooks/15_Regular_Expressions.ipynb)
+16. [Advanced Python Concepts](notebooks/16_Advanced_Python.ipynb)
 
