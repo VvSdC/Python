@@ -30,13 +30,9 @@ Each concept is thoroughly explained through interactive Jupyter notebooks, comb
 
 This documentation provides a comprehensive, interview-ready overview of how Python works under the hood. It is suitable for programmers with a C++ background and covers interpretation, execution, memory management, multithreading, and package management.
 
----
-
 ## Overview
 
 Python is a high-level, interpreted programming language. It is known for its readability, rapid development, and support for multiple paradigms, including procedural, object-oriented, and functional programming.
-
----
 
 ## Interpreted Language
 
